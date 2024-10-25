@@ -1,0 +1,15 @@
+List of abbreviations:
+AL – Artemether-Lumefantrine
+DP – Dihydroartemisinin-Piperaquine
+PQ – Primaquine
+AS-AQ – Artesunate-Amodiaquine
+ASAQ – Artesunate-Amodiaquine
+ASP – Artesunate-Pyronaridine
+AS-PYR – Artesunate-Pyrimethamine
+ACT – Artemisinin-based Combination Therapy
+IM – Intramuscular
+AM – Artemether
+QN – Quinine
+AS – Artesunate
+NA – Not Available
+Rectal AS – Rectal Artesunate
