@@ -1,248 +1,281 @@
-﻿Country;Year;Cases;Deaths;Source
-Angola;2010;1682870;8114;WHO World Malaria report
-Angola;2011;1632282;6909;WHO World Malaria report
-Angola;2012;1496834;5736;WHO World Malaria report
-Angola;2013;1999868;7300;WHO World Malaria report
-Angola;2014;2298979;5714;WHO World Malaria report
-Angola;2015;2769305;7832;WHO World Malaria report
-Angola;2016;3794253;15997;WHO World Malaria report
-Angola;2017;3874892;13967;WHO World Malaria report
-Angola;2018;5150575;11814;WHO World Malaria report
-Angola;2019;7054978;18691;WHO World Malaria report
-Angola;2020;7343696;11757;WHO World Malaria report
-Angola;2021;8325921;13676;WHO World Malaria report
-Angola;2022;7858860;12474;WHO World Malaria report
-Botswa;2010;1046;8;WHO World Malaria report
-Botswa;2011;432;8;WHO World Malaria report
-Botswa;2012;193;3;WHO World Malaria report
-Botswa;2013;456;7;WHO World Malaria report
-Botswa;2014;1346;22;WHO World Malaria report
-Botswa;2015;332;5;WHO World Malaria report
-Botswa;2016;723;3;WHO World Malaria report
-Botswa;2017;1909;17;WHO World Malaria report
-Botswa;2018;585;9;WHO World Malaria report
-Botswa;2019;272;7;WHO World Malaria report
-Botswa;2020;953;11;WHO World Malaria report
-Botswa;2021;729;5;WHO World Malaria report
-Botswa;2022;446;6;WHO World Malaria report
-Burundi;2010;1763447;2677;WHO World Malaria report
-Burundi;2011;1575237;2233;WHO World Malaria report
-Burundi;2012;2166690;2263;WHO World Malaria report
-Burundi;2013;4178338;3411;WHO World Malaria report
-Burundi;2014;4726299;2974;WHO World Malaria report
-Burundi;2015;5428710;3799;WHO World Malaria report
-Burundi;2016;8793176;5853;WHO World Malaria report
-Burundi;2017;8795952;4414;"EAC Focal point memeber; National Malaria Control Programme"
-Burundi;2018;4966511;2481;"EAC Focal point memeber; National Malaria Control Programme"
-Burundi;2019;9959533;3316;"EAC Focal point memeber; National Malaria Control Programme"
-Burundi;2020;4720103;2276;"EAC Focal point memeber; National Malaria Control Programme"
-Burundi;2021;6615714;2292;"EAC Focal point memeber; National Malaria Control Programme"
-Burundi;2022;8117435;2374;"EAC Focal point memeber; National Malaria Control Programme"
-Comoros;2010;36538;53;WHO World Malaria report
-Comoros;2011;24856;19;WHO World Malaria report
-Comoros;2012;49840;17;WHO World Malaria report
-Comoros;2013;53156;15;WHO World Malaria report
-Comoros;2014;2203;0;WHO World Malaria report
-Comoros;2015;1884;1;WHO World Malaria report
-Comoros;2016;1467;0;WHO World Malaria report
-Comoros;2017;3896;3;WHO World Malaria report
-Comoros;2018;15613;8;WHO World Malaria report
-Comoros;2019;17697;0;WHO World Malaria report
-Comoros;2020;4546;7;WHO World Malaria report
-Comoros;2021;10547;3;WHO World Malaria report
-Comoros;2022;20681;0;WHO World Malaria report
-DRC;2010;2417780;23476;WHO World Malaria report
-DRC;2011;4561981;23748;WHO World Malaria report
-DRC;2012;4791598;21601;WHO World Malaria report
-DRC;2013;6719887;30918;WHO World Malaria report
-DRC;2014;10288519;25502;WHO World Malaria report
-DRC;2015;12538805;39054;WHO World Malaria report
-DRC;2016;16821130;33997;WHO World Malaria report
-DRC;2017;15060454;21320;"EAC Focal point memeber; National Malaria Control Programme"
-DRC;2018;15755949;10898;"EAC Focal point memeber; National Malaria Control Programme"
-DRC;2019;18228070;92232;"EAC Focal point memeber; National Malaria Control Programme"
-DRC;2020;18813663;8320;"EAC Focal point memeber; National Malaria Control Programme"
-DRC;2021;18005873;7811;"EAC Focal point memeber; National Malaria Control Programme"
-DRC;2022;22593991;7810;"EAC Focal point memeber; National Malaria Control Programme"
-Eswatini;2010;268;8;WHO World Malaria report
-Eswatini;2011;549;1;WHO World Malaria report
-Eswatini;2012;562;3;WHO World Malaria report
-Eswatini;2013;962;4;WHO World Malaria report
-Eswatini;2014;711;4;WHO World Malaria report
-Eswatini;2015;475;5;WHO World Malaria report
-Eswatini;2016;317;3;WHO World Malaria report
-Eswatini;2017;1127;20;WHO World Malaria report
-Eswatini;2018;957;2;WHO World Malaria report
-Eswatini;2019;589;3;WHO World Malaria report
-Eswatini;2020;325;2;WHO World Malaria report
-Eswatini;2021;581;7;WHO World Malaria report
-Eswatini;2022;369;4;WHO World Malaria report
-Kenya;2010;898531;26017;WHO World Malaria report
-Kenya;2011;1002805;713;WHO World Malaria report
-Kenya;2012;1453471;785;WHO World Malaria report
-Kenya;2013;2375129;360;WHO World Malaria report
-Kenya;2014;2851555;472;WHO World Malaria report
-Kenya;2015;5495591;761;National Malaria Control Programme- Kenya
-Kenya;2016;5157643;603;National Malaria Control Programme- Kenya
-Kenya;2017;4140448;702;National Malaria Control Programme- Kenya
-Kenya;2018;4270117;1124;National Malaria Control Programme- Kenya
-Kenya;2019;5020991;858;National Malaria Control Programme- Kenya
-Kenya;2020;4203735;742;National Malaria Control Programme- Kenya
-Kenya;2021;4538600;753;National Malaria Control Programme- Kenya
-Kenya;2022;4809961;219;National Malaria Control Programme- Kenya
-Madagascar;2010;202450;427;WHO World Malaria report
-Madagascar;2011;224498;398;WHO World Malaria report
-Madagascar;2012;402900;552;WHO World Malaria report
-Madagascar;2013;433450;641;WHO World Malaria report
-Madagascar;2014;470924;551;WHO World Malaria report
-Madagascar;2015;939657;841;WHO World Malaria report
-Madagascar;2016;686024;443;WHO World Malaria report
-Madagascar;2017;985852;370;WHO World Malaria report
-Madagascar;2018;972790;927;WHO World Malaria report
-Madagascar;2019;970828;657;WHO World Malaria report
-Madagascar;2020;1950471;674;WHO World Malaria report
-Madagascar;2021;2339103;547;WHO World Malaria report
-Madagascar;2022;1679547;291;WHO World Malaria report
-Malawi;2010;8206;Not available;WHO World Malaria report
-Malawi;2011;304499;6674;WHO World Malaria report
-Malawi;2012;1564984;5516;WHO World Malaria report
-Malawi;2013;1280892;3723;WHO World Malaria report
-Malawi;2014;2905310;4490;WHO World Malaria report
-Malawi;2015;3661238;3799;WHO World Malaria report
-Malawi;2016;4827373;4000;WHO World Malaria report
-Malawi;2017;4947443;3613;WHO World Malaria report
-Malawi;2018;5865476;2967;WHO World Malaria report
-Malawi;2019;5184107;2341;WHO World Malaria report
-Malawi;2020;7139065;2517;WHO World Malaria report
-Malawi;2021;6948500;2368;WHO World Malaria report
-Malawi;2022;4226161;1829;WHO World Malaria report
-Mozambique;2010;1522577;3354;WHO World Malaria report
-Mozambique;2011;1756874;3086;WHO World Malaria report
-Mozambique;2012;1853276;2818;WHO World Malaria report
-Mozambique;2013;3282172;2941;WHO World Malaria report
-Mozambique;2014;7407175;3245;WHO World Malaria report
-Mozambique;2015;8222814;2467;WHO World Malaria report
-Mozambique;2016;9690873;1685;WHO World Malaria report
-Mozambique;2017;9892601;1114;WHO World Malaria report
-Mozambique;2018;10304472;968;WHO World Malaria report
-Mozambique;2019;11734926;734;WHO World Malaria report
-Mozambique;2020;11318685;563;WHO World Malaria report
-Mozambique;2021;10095807;408;WHO World Malaria report
-Mozambique;2022;12387459;423;WHO World Malaria report
-Rwanda;2010;669322;670;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2011;273293;380;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2012;483470;459;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2013;962618;409;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2014;1623176;496;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2015;2505794;516;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2016;3380568;715;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2017;5940533;376;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2018;4231883;341;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2019;3612822;224;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2020;2043392;149;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2021;1163670;60;"EAC Focal point memeber; National Malaria Control Programme"
-Rwanda;2022;857228;75;"EAC Focal point memeber; National Malaria Control Programme"
-South Africa;2010;8060;83;WHO World Malaria report
-South Africa;2011;9866;54;WHO World Malaria report
-South Africa;2012;6621;72;WHO World Malaria report
-South Africa;2013;8645;105;WHO World Malaria report
-South Africa;2014;11705;174;WHO World Malaria report
-South Africa;2015;4959;110;WHO World Malaria report
-South Africa;2016;4323;34;WHO World Malaria report
-South Africa;2017;29615;301;WHO World Malaria report
-South Africa;2018;10789;69;WHO World Malaria report
-South Africa;2019;13833;79;WHO World Malaria report
-South Africa;2020;8126;38;WHO World Malaria report
-South Africa;2021;5889;56;WHO World Malaria report
-South Africa;2022;7280;29;WHO World Malaria report
-South Sudan;2010;900283;1053;WHO World Malaria report
-South Sudan;2011;112024;406;WHO World Malaria report
-South Sudan;2012;225371;1321;WHO World Malaria report
-South Sudan;2013;262520;1311;WHO World Malaria report
-South Sudan;2014;71377;Not available;WHO World Malaria report
-South Sudan;2015;24371;Not available;WHO World Malaria report
-South Sudan;2016;7619;Not available;WHO World Malaria report
-South Sudan;2017;1488005;3483;WHO World Malaria report
-South Sudan;2018;98843;1191;WHO World Malaria report
-South Sudan;2019;1903742;4877;WHO World Malaria report
-South Sudan;2020;661922;244;WHO World Malaria report
-South Sudan;2021;2017227;4220;WHO World Malaria report
-South Sudan;2022;2527657;4429;WHO World Malaria report
-Tanzania;2010;12893899;15915;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2011;10165442;11806;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2012;8478109;7828;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2013;8587728;8528;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2014;7403952;5373;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2015;8406354;6315;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2016;6624054;5046;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2017;5988136;3685;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2018;6219125;2753;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2019;6003332;1171;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2020;6015706;2569;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2021;4465605;1925;"EAC Focal point memeber; National Malaria Control Programme"
-Tanzania;2022;3666741;1538;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2010;1666582;8431;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2011;316241;5958;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2012;2662258;6585;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2013;1502362;7277;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2014;3631939;5921;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2015;7412747;6100;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2016;9735849;5635;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2017;11667831;5111;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2018;5759174;3302;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2019;13982362;5027;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2020;16329136;4252;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2021;14336387;3158;"EAC Focal point memeber; National Malaria Control Programme"
-Uganda;2022;19185472;4817;"EAC Focal point memeber; National Malaria Control Programme"
-Zambia;2010;4834;Not available;WHO World Malaria report
-Zambia;2011;4540;Not available;WHO World Malaria report
-Zambia;2012;3705;Not available;WHO World Malaria report
-Zambia;2013;3548;Not available;WHO World Malaria report
-Zambia;2014;4077547;3257;WHO World Malaria report
-Zambia;2015;4184661;2389;WHO World Malaria report
-Zambia;2016;4851319;1827;WHO World Malaria report
-Zambia;2017;5505639;1425;WHO World Malaria report
-Zambia;2018;5039679;1209;WHO World Malaria report
-Zambia;2019;5147350;1339;WHO World Malaria report
-Zambia;2020;8121215;1972;WHO World Malaria report
-Zambia;2021;6769142;1503;WHO World Malaria report
-Zambia;2022;8126829;1361;WHO World Malaria report
-Zanzibar;2010;2338;48;WHO World Malaria report
-Zanzibar;2011;4489;7;WHO World Malaria report
-Zanzibar;2012;2931;8;WHO World Malaria report
-Zanzibar;2013;2246;2;WHO World Malaria report
-Zanzibar;2014;2200;5;WHO World Malaria report
-Zanzibar;2015;4617;2;WHO World Malaria report
-Zanzibar;2016;6704;1;"EAC Focal point memeber; National Malaria Control Programme"
-Zanzibar;2017;5044;1;"EAC Focal point memeber; National Malaria Control Programme"
-Zanzibar;2018;3332;6;"EAC Focal point memeber; National Malaria Control Programme"
-Zanzibar;2019;6963;8;"EAC Focal point memeber; National Malaria Control Programme"
-Zanzibar;2020;14188;20;"EAC Focal point memeber; National Malaria Control Programme"
-Zanzibar;2021;6096;4;"EAC Focal point memeber; National Malaria Control Programme"
-Zanzibar;2022;4557;4;"EAC Focal point memeber; National Malaria Control Programme"
-Zimbabwe;2010;249379;255;WHO World Malaria report
-Zimbabwe;2011;321901;451;WHO World Malaria report
-Zimbabwe;2012;277736;351;WHO World Malaria report
-Zimbabwe;2013;423702;352;WHO World Malaria report
-Zimbabwe;2014;550696;406;WHO World Malaria report
-Zimbabwe;2015;484794;200;WHO World Malaria report
-Zimbabwe;2016;316989;351;WHO World Malaria report
-Zimbabwe;2017;471798;527;WHO World Malaria report
-Zimbabwe;2018;264018;192;WHO World Malaria report
-Zimbabwe;2019;308173;266;WHO World Malaria report
-Zimbabwe;2020;447381;400;WHO World Malaria report
-Zimbabwe;2021;133137;131;WHO World Malaria report
-Zimbabwe;2022;141076;177;WHO World Malaria report
-Somalia;2010;24833;6;WHO World Malaria report
-Somalia;2011;3351;5;WHO World Malaria report
-Somalia;2012;6817;10;WHO World Malaria report
-Somalia;2013;7407;23;WHO World Malaria report
-Somalia;2014;11246;14;WHO World Malaria report
-Somalia;2015;20953;27;WHO World Malaria report
-Somalia;2016;35628;13;WHO World Malaria report
-Somalia;2017;35138;20;WHO World Malaria report
-Somalia;2018;31021;31;WHO World Malaria report
-Somalia;2019;39687;20;WHO World Malaria report
-Somalia;2020;27333;5;WHO World Malaria report
-Somalia;2021;12967;2;WHO World Malaria report
-Somalia;2022;1155;1;WHO World Malaria report
+Country,Year,Cases,Deaths
+Angola,2010,1682870,8114
+Angola,2011,1632282,6909
+Angola,2012,1496834,5736
+Angola,2013,1999868,7300
+Angola,2014,2298979,5714
+Angola,2015,2769305,7832
+Angola,2016,3794253,15997
+Angola,2017,3874892,13967
+Angola,2018,5150575,11814
+Angola,2019,7054978,18691
+Angola,2020,7343696,11757
+Angola,2021,8325921,13676
+Angola,2022,7858860,12474
+Angola,2023,9 098 006,10 089
+Botswa,2010,1046,8
+Botswa,2011,432,8
+Botswa,2012,193,3
+Botswa,2013,456,7
+Botswa,2014,1346,22
+Botswa,2015,332,5
+Botswa,2016,723,3
+Botswa,2017,1909,17
+Botswa,2018,585,9
+Botswa,2019,272,7
+Botswa,2020,953,11
+Botswa,2021,729,5
+Botswa,2022,446,6
+Botswa,2023,651,6
+Burundi,2010,1763447,2677
+Burundi,2011,1575237,2233
+Burundi,2012,2166690,2263
+Burundi,2013,4178338,3411
+Burundi,2014,4726299,2974
+Burundi,2015,5428710,3799
+Burundi,2016,8793176,5853
+Burundi,2017,8795952,4414
+Burundi,2018,4966511,2481
+Burundi,2019,9959533,3316
+Burundi,2020,4720103,2276
+Burundi,2021,6615714,2292
+Burundi,2022,8117435,2374
+Burundi,2023,5 605 763,1 831
+Comoros,2010,36538,53
+Comoros,2011,24856,19
+Comoros,2012,49840,17
+Comoros,2013,53156,15
+Comoros,2014,2203,0
+Comoros,2015,1884,1
+Comoros,2016,1467,0
+Comoros,2017,3896,3
+Comoros,2018,15613,8
+Comoros,2019,17697,0
+Comoros,2020,4546,7
+Comoros,2021,10547,3
+Comoros,2022,20681,0
+Comoros,2023,21 079,2
+DRC,2010,2417780,23476
+DRC,2011,4561981,23748
+DRC,2012,4791598,21601
+DRC,2013,6719887,30918
+DRC,2014,10288519,25502
+DRC,2015,12538805,39054
+DRC,2016,16821130,33997
+DRC,2017,15060454,21320
+DRC,2018,15755949,10898
+DRC,2019,18228070,92232
+DRC,2020,18813663,8320
+DRC,2021,18005873,7811
+DRC,2022,22593991,7810
+DRC,2023,27 657 762,22 224
+Eswatini,2010,268,8
+Eswatini,2011,549,1
+Eswatini,2012,562,3
+Eswatini,2013,962,4
+Eswatini,2014,711,4
+Eswatini,2015,475,5
+Eswatini,2016,317,3
+Eswatini,2017,1127,20
+Eswatini,2018,957,2
+Eswatini,2019,589,3
+Eswatini,2020,325,2
+Eswatini,2021,581,7
+Eswatini,2022,369,4
+Eswatini,2023,845,7
+Kenya,2010,898531,26017
+Kenya,2011,1002805,713
+Kenya,2012,1453471,785
+Kenya,2013,2375129,360
+Kenya,2014,2851555,472
+Kenya,2015,5495591,761
+Kenya,2016,5157643,603
+Kenya,2017,4140448,702
+Kenya,2018,4270117,1124
+Kenya,2019,5020991,858
+Kenya,2020,4203735,742
+Kenya,2021,4538600,753
+Kenya,2022,4809961,219
+Kenya,2023,5618985,769
+Madagascar,2010,202450,427
+Madagascar,2011,224498,398
+Madagascar,2012,402900,552
+Madagascar,2013,433450,641
+Madagascar,2014,470924,551
+Madagascar,2015,939657,841
+Madagascar,2016,686024,443
+Madagascar,2017,985852,370
+Madagascar,2018,972790,927
+Madagascar,2019,970828,657
+Madagascar,2020,1950471,674
+Madagascar,2021,2339103,547
+Madagascar,2022,1679547,291
+Madagascar,2023,2 843 012,393
+Malawi,2010,8206,8206
+Malawi,2011,304499,6674
+Malawi,2012,1564984,5516
+Malawi,2013,1280892,3723
+Malawi,2014,2905310,4490
+Malawi,2015,3661238,3799
+Malawi,2016,4827373,4000
+Malawi,2017,4947443,3613
+Malawi,2018,5865476,2967
+Malawi,2019,5184107,2341
+Malawi,2020,7139065,2517
+Malawi,2021,6948500,2368
+Malawi,2022,4226161,1829
+Malawi,2023,6 426 150,1481
+Mozambique,2010,1522577,3354
+Mozambique,2011,1756874,3086
+Mozambique,2012,1853276,2818
+Mozambique,2013,3282172,2941
+Mozambique,2014,7407175,3245
+Mozambique,2015,8222814,2467
+Mozambique,2016,9690873,1685
+Mozambique,2017,9892601,1114
+Mozambique,2018,10304472,968
+Mozambique,2019,11734926,734
+Mozambique,2020,11318685,563
+Mozambique,2021,10095807,408
+Mozambique,2022,12387459,423
+Mozambique,2023,13 230 613,356
+Rwanda,2010,669322,670
+Rwanda,2011,273293,380
+Rwanda,2012,483470,459
+Rwanda,2013,962618,409
+Rwanda,2014,1623176,496
+Rwanda,2015,2505794,516
+Rwanda,2016,3380568,715
+Rwanda,2017,5940533,376
+Rwanda,2018,4231883,341
+Rwanda,2019,3612822,224
+Rwanda,2020,2043392,149
+Rwanda,2021,1163670,60
+Rwanda,2022,857228,75
+Rwanda,2023,549326,35
+South Africa,2010,8060,83
+South Africa,2011,9866,54
+South Africa,2012,6621,72
+South Africa,2013,8645,105
+South Africa,2014,11705,174
+South Africa,2015,4959,110
+South Africa,2016,4323,34
+South Africa,2017,29615,301
+South Africa,2018,10789,69
+South Africa,2019,13833,79
+South Africa,2020,8126,38
+South Africa,2021,5889,56
+South Africa,2022,7280,29
+South Africa,2023,9890,113
+South Sudan,2010,900283,1053
+South Sudan,2011,112024,406
+South Sudan,2012,225371,1321
+South Sudan,2013,262520,1311
+South Sudan,2014,71377,
+South Sudan,2015,24371,
+South Sudan,2016,7619,
+South Sudan,2017,1488005,3483
+South Sudan,2018,98843,1191
+South Sudan,2019,1903742,4877
+South Sudan,2020,661922,244
+South Sudan,2021,2017227,4220
+South Sudan,2022,2527657,4429
+South Sudan,2023,3 428 237,1813
+Tanzania,2010,12893899,15915
+Tanzania,2011,10165442,11806
+Tanzania,2012,8478109,7828
+Tanzania,2013,8587728,8528
+Tanzania,2014,7403952,5373
+Tanzania,2015,8406354,6315
+Tanzania,2016,6624054,5046
+Tanzania,2017,5988136,3685
+Tanzania,2018,6219125,2753
+Tanzania,2019,6003332,1171
+Tanzania,2020,6015706,2569
+Tanzania,2021,4465605,1925
+Tanzania,2022,3666741,1538
+Tanzania,2023,3 772 781,1971
+Uganda,2010,1666582,8431
+Uganda,2011,316241,5958
+Uganda,2012,2662258,6585
+Uganda,2013,1502362,7277
+Uganda,2014,3631939,5921
+Uganda,2015,7412747,6100
+Uganda,2016,9735849,5635
+Uganda,2017,11667831,5111
+Uganda,2018,5759174,3302
+Uganda,2019,13982362,5027
+Uganda,2020,16329136,4252
+Uganda,2021,14336387,3158
+Uganda,2022,19185472,4817
+Uganda,2023,15 968 780,2 793
+Zambia,2010,4834,4834
+Zambia,2011,4540,4540
+Zambia,2012,3705,3705
+Zambia,2013,3548,3548
+Zambia,2014,4077547,3257
+Zambia,2015,4184661,2389
+Zambia,2016,4851319,1827
+Zambia,2017,5505639,1425
+Zambia,2018,5039679,1209
+Zambia,2019,5147350,1339
+Zambia,2020,8121215,1972
+Zambia,2021,6769142,1503
+Zambia,2022,8126829,1361
+Zambia,2023,8 318 536,1616
+Zanzibar,2010,2338,48
+Zanzibar,2011,4489,7
+Zanzibar,2012,2931,8
+Zanzibar,2013,2246,2
+Zanzibar,2014,2200,5
+Zanzibar,2015,4617,2
+Zanzibar,2016,6704,1
+Zanzibar,2017,5044,1
+Zanzibar,2018,3332,6
+Zanzibar,2019,6963,8
+Zanzibar,2020,14188,20
+Zanzibar,2021,6096,4
+Zanzibar,2022,4557,4
+Zanzibar,2023,18 341,31
+Zimbabwe,2010,249379,255
+Zimbabwe,2011,321901,451
+Zimbabwe,2012,277736,351
+Zimbabwe,2013,423702,352
+Zimbabwe,2014,550696,406
+Zimbabwe,2015,484794,200
+Zimbabwe,2016,316989,351
+Zimbabwe,2017,471798,527
+Zimbabwe,2018,264018,192
+Zimbabwe,2019,308173,266
+Zimbabwe,2020,447381,400
+Zimbabwe,2021,133137,131
+Zimbabwe,2022,141076,177
+Zimbabwe,2023,248 699,317
+Somalia,2010,24833,6
+Somalia,2011,3351,5
+Somalia,2012,6817,10
+Somalia,2013,7407,23
+Somalia,2014,11246,14
+Somalia,2015,20953,27
+Somalia,2016,35628,13
+Somalia,2017,35138,20
+Somalia,2018,31021,31
+Somalia,2019,39687,20
+Somalia,2020,27333,5
+Somalia,2021,12967,2
+Somalia,2022,1155,1
+Somalia,2023,13 598,0
+Namibia,2010,25 889,63
+Namibia,2011,14 071,36
+Namibia,2012,3 163,4
+Namibia,2013,4 775,21
+Namibia,2014,15 692,61
+Namibia,2015,12050,32
+Namibia,2016,24869,65
+Namibia,2017,66141,57
+Namibia,2018,36451,58
+Namibia,2019,3404,6
+Namibia,2020,13636,35
+Namibia,2021,13738,14
+Namibia,2022,11849,28
+Namibia,2023,13735,32
