@@ -1,21 +1,21 @@
-Country,First_line_treatment_uncomplicate_malaria,Second_line_treatment_uncomplicate_malaria,P_falciparum_transmission-blocking,Plasmodium_ovale_P_vivax_Radical_cure,Severe_malaria_1st_line_treatment,Severe_malaria_2nd_line_treatment,Pre-referral_treatment,Percentage_Plasmodium_falciparum
-Angola,Artemether-Lumefantrine or Dihydroartemisinin-Piperaquine or Injectable Artesunate-Amodiaquine,Not available,Not in policy,Not in policy,Injectable Artesunate,Quinine,Rectal Injectable Artesunate,"98 (Artemether-lumefantrine+primaquine to treat P. vivax, 2%)"
-Botswana,Artemether-Lumefantrine,Not in policy,Primaquine,Primaquine,Injectable Artesunate,Injectable Quinine and clindamycin,Rectal Injectable Artesunate,100
-Burundi,Artemether-Lumefantrine,Dihydroartemisinin-Piperaquine,Primaquine,Not in policy,Injectable Artesunate,Not Available,Intramuscular / Rectal Injectable Artesunate,100
-Comoros,Artemether-Lumefantrine,Not Available,Not in policy,Not in policy,Injectable Quinine,Not Available,Not available,100
-DRC,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine / Injectable Artesunate-Pyronaridine / Injectable Artesunate-Amodiaquine,Injectable Artesunate-Amodiaquine / Injectable Artesunate-Pyronaridine,Not in policy,Not in policy,Injectable Injectable Artesunate or Quinine,Artemether,Intramuscular / Rectal Injectable Artesunate,100
-Eswatini,Artemether-Lumefantrine,Dihydroartemisinin-Piperaquine,Primaquine,Primaquine,Injectable Artesunate,Artemether,Injectable Artesunate,100
-Kenya,Artemether-Lumefantrine,Dihydroartemisinin-Piperaquine,Not in policy,Artemether-Lumefantrine + Primaquine,Injectable Artesunate,Artemether,Not Available,99 (Artemether-lumefantrine+primaquine for treating P. vivax)
-Madagascar,Injectable Artesunate-Amodiaquine,Artemether-Lumefantrine,Not in policy,Primaquine,Injectable Artesunate,Not Available,Rectal Injectable Artesunate,100
-Malawi,Artemether-Lumefantrine,Injectable Artesunate-Amodiaquine,Not in policy,Primaquine,Injectable Artesunate,Quinine,Injectable Artesunate,100
-Mozambique,Artemether-Lumefantrine / Injectable Artesunate-Amodiaquine,Not Available,Not in policy,Not in policy,Injectable Artesunate,Not Available,Not available,100
-Namibia,Artemether-Lumefantrine / Injectable Artesunate-Amodiaquine,Not Available,Primaquine,Not in policy,Injectable Quinine,Not Available,Not available,100
-Rwanda,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine / Injectable Artesunate-Pyronarodine,Dihydroartemisinin-Piperaquine / Injectable Artesunate-Pyrimethamine,Not in policy,Artemisinin-based Combination Therapy + Primaquine,Injectable Artesunate,Artemether,Intramuscular Injectable Artesunate / Artemether / Quinine,100
-South Africa,Artemether-Lumefantrine,Not available,Primaquine,Primaquine,Injectable Artesunate,Quinine,Not Available,100
-South Sudan,Injectable Artesunate-Amodiaquine,Artemether-Lumefantrine,Not in policy,Artemisinin-based Combination Therapy + Primaquine,Injectable Artesunate,Artemether,Not Available,"99 (P. vivax 1%, pyronaridine)"
-Tanzania,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine,Not Available,Not in policy,Not Available,Injectable Injectable Artesunate,Artemether,Intramuscular / Rectal Injectable Artesunate,100
-Uganda,Artemether-Lumefantrine,Injectable Artesunate-Amodiaquine / Dihydroartemisinin-Piperaquine,Not in policy,Not in policy,Injectable Artesunate,Artemether,Intramuscular / Rectal Injectable Artesunate,100
-Zambia,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine,Injectable Artesunate-Amodiaquine,Not in policy,Not in policy,Injectable Artesunate,Quinine,Injectable Artesunate,100
-Zanzibar,Injectable Artesunate-Amodiaquine,Dihydroartemisinin-Piperaquine,Not in policy,Artemisinin-based Combination Therapy + Primaquine,Injectable Artesunate,Artemether,Not Available,71 (P. falciparum and other species have the same treatment)
-Zimbabwe,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine,Injectable Artesunate-Amodiaquine,Not in policy,Primaquine,Injectable Artesunate,Quinine,Injectable Artesunate,100
+Country,First_line_treatment_uncomplicate_malaria,Second_line_treatment_uncomplicate_malaria,P_falciparum_transmission-blocking,Plasmodium_ovale_P_vivax_Radical_cure,Severe_malaria_1st_line_treatment,Severe_malaria_2nd_line_treatment,Pre-referral_treatment,Percentage_Plasmodium_falciparum,
+Angola,Artemether-Lumefantrine or Dihydroartemisinin-Piperaquine or Injectable Artesunate-Amodiaquine,Not available,Not in policy,Not in policy,Injectable Artesunate,Quinine,Rectal Injectable Artesunate,98 (Artemether-lumefantrine+primaquine to treat P. vivax, 2%),
+Botswana,Artemether-Lumefantrine,Not in policy,Primaquine,Primaquine,Injectable Artesunate,Injectable Quinine and clindamycin,Rectal Injectable Artesunate,100,
+Burundi,Artemether-Lumefantrine,Dihydroartemisinin-Piperaquine,Primaquine,Not in policy,Injectable Artesunate,Not Available,Intramuscular / Rectal Injectable Artesunate,100,
+Comoros,Artemether-Lumefantrine,Not Available,Not in policy,Not in policy,Injectable Quinine,Not Available,Not available,100,
+DRC,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine / Injectable Artesunate-Pyronaridine / Injectable Artesunate-Amodiaquine,Injectable Artesunate-Amodiaquine / Injectable Artesunate-Pyronaridine,Not in policy,Not in policy,Injectable Injectable Artesunate or Quinine,Artemether,Intramuscular / Rectal Injectable Artesunate,100,
+Eswatini,Artemether-Lumefantrine,Dihydroartemisinin-Piperaquine,Primaquine,Primaquine,Injectable Artesunate,Artemether,Injectable Artesunate,100,
+Kenya,Artemether-Lumefantrine,Dihydroartemisinin-Piperaquine,Not in policy,Artemether-Lumefantrine + Primaquine,Injectable Artesunate,Artemether,Not Available,99 (Artemether-lumefantrine+primaquine for treating P. vivax),
+Madagascar,Injectable Artesunate-Amodiaquine,Artemether-Lumefantrine,Not in policy,Primaquine,Injectable Artesunate,Not Available,Rectal Injectable Artesunate,100,
+Malawi,Artemether-Lumefantrine,Injectable Artesunate-Amodiaquine,Not in policy,Primaquine,Injectable Artesunate,Quinine,Injectable Artesunate,100,
+Mozambique,Artemether-Lumefantrine / Injectable Artesunate-Amodiaquine,Not Available,Not in policy,Not in policy,Injectable Artesunate,Not Available,Not available,100,
+Namibia,Artemether-Lumefantrine,Not Available,Primaquine,Not in policy,Injectable Quinine,Not Available,Not available,100,
+Rwanda,Artemether-lumefantrine (AL) Dihydroartemisinin-piperaquine (DP), Artesunate–Pyronaridine (ASPY),DP/ ASPY,Not in policy,Artemisinin-based Combination Therapy + Primaquine,Injectable Artesunate,Artemether,Intramuscular Injectable Artesunate / Artemether / Quinine,97,
+South Africa,Artemether-Lumefantrine,Not available,Primaquine,Primaquine,Injectable Artesunate,Quinine,Not Available,100,
+South Sudan,Injectable Artesunate-Amodiaquine,Artemether-Lumefantrine,Not in policy,Artemisinin-based Combination Therapy + Primaquine,Injectable Artesunate,Artemether,Not Available,99 (P. vivax 1%, pyronaridine),
+Tanzania,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine,Not Available,Not in policy,Not Available,Injectable Injectable Artesunate,Artemether,Intramuscular / Rectal Injectable Artesunate,100,
+Uganda,Artemether-Lumefantrine,Injectable Artesunate-Amodiaquine / Dihydroartemisinin-Piperaquine,Not in policy,Not in policy,Injectable Artesunate,Artemether,Intramuscular / Rectal Injectable Artesunate,100,
+Zambia,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine,Injectable Artesunate-Amodiaquine,Not in policy,Not in policy,Injectable Artesunate,Quinine,Injectable Artesunate,100,
+Zanzibar,Injectable Artesunate-Amodiaquine,Dihydroartemisinin-Piperaquine,Not in policy,Artemisinin-based Combination Therapy + Primaquine,Injectable Artesunate,Artemether,Not Available,71 (P. falciparum and other species have the same treatment),
+Zimbabwe,Artemether-Lumefantrine / Dihydroartemisinin-Piperaquine,Injectable Artesunate-Amodiaquine,Not in policy,Primaquine,Injectable Artesunate,Quinine,Injectable Artesunate,100,
 Somalia,Artemether-Lumefantrine,Dihydroartemisinin-Piperaquine,Primaquine,Artemisinin-based Combination Therapy + Primaquine,Injectable Artesunate,Injectable Artemether,Not available,93 (7% P.vivax, same treatment as  P. falciparum)
